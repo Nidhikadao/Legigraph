@@ -1,0 +1,84 @@
+{
+  "total_chunks": 7,
+  "chunk_size": 1000,
+  "chunk_overlap": 200,
+  "chunks": [
+    {
+      "chunk_id": "sample_bill_clean_energy.pdf#p1#c001",
+      "source": "sample_bill_clean_energy.pdf",
+      "page_number": 1,
+      "section": "SECTION 1. SHORT TITLE; TABLE OF CONTENTS.",
+      "chunk_index": 0,
+      "page_chunk_index": 0,
+      "char_count": 678,
+      "word_count": 96,
+      "content": "TITLE AND ENACTING CLAUSE\nIN THE HOUSE OF REPRESENTATIVES A BILL To accelerate renewable\nenergy adoption while safeguarding economic vitality for small\nbusinesses, rural agricultural producers, and vulnerable\nwage-earning families. Be it enacted by the Senate and House of\nRepresentatives of the United States of America in Congress\nassembled,\nSECTION 1. SHORT TITLE; TABLE OF CONTENTS.\n(a) Short Title.·This Act may be cited as the 'Clean Energy\nTransition and Small Business Economic Resilience Act of 2026'. (b)\nPurpose.·The primary objective is to allocate federal grant\nmatching, reduce localized electricity tariffs, and provide targeted\nmicro-enterprise transition funds."
+    },
+    {
+      "chunk_id": "sample_bill_clean_energy.pdf#p1#c002",
+      "source": "sample_bill_clean_energy.pdf",
+      "page_number": 1,
+      "section": "SECTION 2. FINDINGS AND DECLARATIONS OF IMPACT.",
+      "chunk_index": 1,
+      "page_chunk_index": 1,
+      "char_count": 481,
+      "word_count": 56,
+      "content": "SECTION 2. FINDINGS AND DECLARATIONS OF IMPACT.\n(a) Small Business Vulnerability.·Commercial electricity rate\nfluctuations disproportionately impact commercial enterprises\nemploying fewer than 50 individuals, particularly food service,\nretail, and regional manufacturing. (b) Demographic\nDisparities.·Rural low-income households allocate up to 14.2 percent\nof disposable income to energy expenditures, representing a severe\nenergy burden that necessitates direct public assistance."
+    },
+    {
+      "chunk_id": "sample_bill_clean_energy.pdf#p2#c003",
+      "source": "sample_bill_clean_energy.pdf",
+      "page_number": 2,
+      "section": "SECTION 3. MICRO-ENTERPRISE CLEAN ENERGY TRANSITION GRANTS.",
+      "chunk_index": 2,
+      "page_chunk_index": 0,
+      "char_count": 953,
+      "word_count": 124,
+      "content": "SECTION 3. MICRO-ENTERPRISE CLEAN ENERGY TRANSITION GRANTS.\n(a) Establishment of Grant Facility.·The Secretary of Energy, in\nconsultation with the Small Business Administration, shall establish\nthe 'Commercial Decarbonization Incentive Program'. (b) Eligible\nEntities.·An entity is eligible for a competitive grant under this\nsection if the entity: (1) Employs not more than 40 full-time\nequivalent employees; (2) Maintains an average annual gross revenue\nbelow $4,500,000 for the preceding 3 fiscal years; (3) Operates\nprimarily in designated rural or economically distressed municipal\ncorridors. (c) Grant Amounts.·Individual grants shall not exceed\n$75,000 per commercial establishment, or 80 percent of qualified\ncapital costs for heat pump, solar photovoltaic, or commercial\nbattery storage installation. (d) Fast-Track\nDisbursements.·Applications submitted by women-, veteran-, and\nminority-owned small businesses shall receive priority review and"
+    },
+    {
+      "chunk_id": "sample_bill_clean_energy.pdf#p2#c004",
+      "source": "sample_bill_clean_energy.pdf",
+      "page_number": 2,
+      "section": "SECTION 3. MICRO-ENTERPRISE CLEAN ENERGY TRANSITION GRANTS.",
+      "chunk_index": 3,
+      "page_chunk_index": 1,
+      "char_count": 233,
+      "word_count": 27,
+      "content": "battery storage installation. (d) Fast-Track\nDisbursements.·Applications submitted by women-, veteran-, and\nminority-owned small businesses shall receive priority review and\nexpedited determination within 21 business days of receipt."
+    },
+    {
+      "chunk_id": "sample_bill_clean_energy.pdf#p3#c005",
+      "source": "sample_bill_clean_energy.pdf",
+      "page_number": 3,
+      "section": "SECTION 4. WORKFORCE RETRAINING AND DISPLACED WORKER STIPENDS.",
+      "chunk_index": 4,
+      "page_chunk_index": 0,
+      "char_count": 989,
+      "word_count": 130,
+      "content": "SECTION 4. WORKFORCE RETRAINING AND DISPLACED WORKER STIPENDS.\n(a) Displaced Worker Wage Guarantee.·Eligible energy workers who\nexperience employment termination or reduction in hours due to\nfossil-fuel thermal generation facility closures shall be entitled\nto: (1) A transitional stipend of $2,400 per month for up to 18\nconsecutive months; (2) 100 percent tuition reimbursement for\ncertified technical apprenticeships or vocational certification at\ncommunity colleges; (3) Continuing healthcare coverage premium\nsubsidies under COBRA for a duration of 24 months. (b) Local Union\nApprenticeships.·Grants shall be awarded to accredited regional\nlabor organizations and community colleges to establish advanced\nhigh-voltage line worker, wind turbine technician, and battery\nstorage technician training facilities. (c) Senior Worker\nProtections.·Workers aged 55 and older shall be offered an expedited\nbridge-to-pension option funded jointly through federal clean energy\ntransition reserves."
+    },
+    {
+      "chunk_id": "sample_bill_clean_energy.pdf#p4#c006",
+      "source": "sample_bill_clean_energy.pdf",
+      "page_number": 4,
+      "section": "SECTION 5. MUNICIPAL INFRASTRUCTURE AND RESIDENTIAL UTILITY RELIEF.",
+      "chunk_index": 5,
+      "page_chunk_index": 0,
+      "char_count": 911,
+      "word_count": 129,
+      "content": "SECTION 5. MUNICIPAL INFRASTRUCTURE AND RESIDENTIAL UTILITY RELIEF.\n(a) Low-Income Household Utility Bill Caps.·The Department of\nHousing and Urban Development shall disburse direct block grants to\nlocal utility providers to ensure that no residential customer with\nan income below 200 percent of the federal poverty level is charged\nmore than 5 percent of gross household income for home heating and\nelectricity. (b) Rural Community Solar Co-Ops.·Allocates\n$500,000,000 across fiscal years 2026 through 2029 for shared\nagricultural community solar arrays. Farmers who dedicate\nuncultivated land to community solar generation shall receive an\nannual property tax credit of $1,200 per acre. (c) Public School\nWeatherization.·Provides emergency funding for HVAC filtration and\ninsulation upgrades in public school districts where over 60 percent\nof enrolled students qualify for the National School Lunch Program."
+    },
+    {
+      "chunk_id": "sample_bill_clean_energy.pdf#p5#c007",
+      "source": "sample_bill_clean_energy.pdf",
+      "page_number": 5,
+      "section": "SECTION 6. COMPLIANCE, TRANSPARENCY, AND EFFECTIVE DATES.",
+      "chunk_index": 6,
+      "page_chunk_index": 0,
+      "char_count": 777,
+      "word_count": 112,
+      "content": "SECTION 6. COMPLIANCE, TRANSPARENCY, AND EFFECTIVE DATES.\n(a) Reporting Requirements.·Not later than 180 days after the date\nof enactment, the Comptroller General of the United States shall\nsubmit to the Committee on Energy and Commerce of the House of\nRepresentatives an initial audit regarding distribution equity. (b)\nAnti-Gouging Provisions.·Retail electricity suppliers participating\nin federal subsidy programs are strictly prohibited from raising\nresidential baseline kWh tariffs for a period of 36 months following\ngrant receipt. (c) Severability.·If any provision of this Act or its\napplication is held invalid, the remainder of the Act shall not be\naffected. (d) Effective Date.·Except as otherwise explicitly\nspecified, this Act shall take effect on January 1, 2027."
+    }
+  ]
+}
